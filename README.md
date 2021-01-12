@@ -2,6 +2,7 @@
 A notes management system which helps users to upload,download and manage notes of their particular course
 
 Languages Used: PHP, MySQL
+
 Tools Used: XAMPP, Visual Studio
 
 To use this project ->
